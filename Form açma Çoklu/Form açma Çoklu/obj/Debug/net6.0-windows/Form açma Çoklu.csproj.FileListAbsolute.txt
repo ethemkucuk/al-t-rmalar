@@ -1,0 +1,18 @@
+C:\Users\Monster\Desktop\C# Örneklerim\Form açma Çoklu\Form açma Çoklu\bin\Debug\net6.0-windows\Form açma Çoklu.exe
+C:\Users\Monster\Desktop\C# Örneklerim\Form açma Çoklu\Form açma Çoklu\bin\Debug\net6.0-windows\Form açma Çoklu.deps.json
+C:\Users\Monster\Desktop\C# Örneklerim\Form açma Çoklu\Form açma Çoklu\bin\Debug\net6.0-windows\Form açma Çoklu.runtimeconfig.json
+C:\Users\Monster\Desktop\C# Örneklerim\Form açma Çoklu\Form açma Çoklu\bin\Debug\net6.0-windows\Form açma Çoklu.dll
+C:\Users\Monster\Desktop\C# Örneklerim\Form açma Çoklu\Form açma Çoklu\bin\Debug\net6.0-windows\Form açma Çoklu.pdb
+C:\Users\Monster\Desktop\C# Örneklerim\Form açma Çoklu\Form açma Çoklu\obj\Debug\net6.0-windows\Form açma Çoklu.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Form açma Çoklu\Form açma Çoklu\obj\Debug\net6.0-windows\Form_açma_Çoklu.Form1.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Form açma Çoklu\Form açma Çoklu\obj\Debug\net6.0-windows\Form_açma_Çoklu.Form2.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Form açma Çoklu\Form açma Çoklu\obj\Debug\net6.0-windows\Form açma Çoklu.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Form açma Çoklu\Form açma Çoklu\obj\Debug\net6.0-windows\Form açma Çoklu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\C# Örneklerim\Form açma Çoklu\Form açma Çoklu\obj\Debug\net6.0-windows\Form açma Çoklu.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Form açma Çoklu\Form açma Çoklu\obj\Debug\net6.0-windows\Form açma Çoklu.AssemblyInfo.cs
+C:\Users\Monster\Desktop\C# Örneklerim\Form açma Çoklu\Form açma Çoklu\obj\Debug\net6.0-windows\Form açma Çoklu.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Form açma Çoklu\Form açma Çoklu\obj\Debug\net6.0-windows\Form açma Çoklu.dll
+C:\Users\Monster\Desktop\C# Örneklerim\Form açma Çoklu\Form açma Çoklu\obj\Debug\net6.0-windows\refint\Form açma Çoklu.dll
+C:\Users\Monster\Desktop\C# Örneklerim\Form açma Çoklu\Form açma Çoklu\obj\Debug\net6.0-windows\Form açma Çoklu.pdb
+C:\Users\Monster\Desktop\C# Örneklerim\Form açma Çoklu\Form açma Çoklu\obj\Debug\net6.0-windows\Form açma Çoklu.genruntimeconfig.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Form açma Çoklu\Form açma Çoklu\obj\Debug\net6.0-windows\ref\Form açma Çoklu.dll

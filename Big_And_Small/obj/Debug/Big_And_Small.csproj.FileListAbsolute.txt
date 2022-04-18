@@ -1,0 +1,11 @@
+C:\Users\Monster\Desktop\C# Örneklerim\Big_And_Small\bin\Debug\Big_And_Small.exe.config
+C:\Users\Monster\Desktop\C# Örneklerim\Big_And_Small\bin\Debug\Big_And_Small.exe
+C:\Users\Monster\Desktop\C# Örneklerim\Big_And_Small\bin\Debug\Big_And_Small.pdb
+C:\Users\Monster\Desktop\C# Örneklerim\Big_And_Small\obj\Debug\Big_And_Small.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Big_And_Small\obj\Debug\Big_And_Small.csproj.SuggestedBindingRedirects.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Big_And_Small\obj\Debug\Big_And_Small.Form1.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Big_And_Small\obj\Debug\Big_And_Small.Properties.Resources.resources
+C:\Users\Monster\Desktop\C# Örneklerim\Big_And_Small\obj\Debug\Big_And_Small.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Big_And_Small\obj\Debug\Big_And_Small.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\C# Örneklerim\Big_And_Small\obj\Debug\Big_And_Small.exe
+C:\Users\Monster\Desktop\C# Örneklerim\Big_And_Small\obj\Debug\Big_And_Small.pdb
